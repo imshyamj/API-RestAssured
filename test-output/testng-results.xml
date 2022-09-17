@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-11T14:10:37 GMT-04:00" name="Default suite" finished-at="2022-09-11T14:10:38 GMT-04:00" duration-ms="1385">
+    <groups>
+    </groups>
+    <test started-at="2022-09-11T14:10:37 GMT-04:00" name="Default test" finished-at="2022-09-11T14:10:38 GMT-04:00" duration-ms="1385">
+      <class name="in.reqres.qa.RestAssured.TC0003_PostRequestTest">
+        <test-method signature="createUser()[pri:0, instance:in.reqres.qa.RestAssured.TC0003_PostRequestTest@48f278eb]" started-at="2022-09-11T14:10:37 GMT-04:00" name="createUser" finished-at="2022-09-11T14:10:38 GMT-04:00" duration-ms="1356" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser -->
+      </class> <!-- in.reqres.qa.RestAssured.TC0003_PostRequestTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
